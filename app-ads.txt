@@ -1,4 +1,4 @@
-  google.com, pub-5760776018505221, DIRECT, f08c47fec0942fa0                    
-  INMOBI.COM, 6c090c2ed5634c9aa59f08bd98a5fb88, RESELLER, 83e75a7ae333ca9d      
-  ironsrc.com, 190011333, RESELLER, 451cfa9f03e04c3f                            
-  unityads.unity3d.com, 4222687, DIRECT 
+google.com, pub-5760776018505221, DIRECT, f08c47fec0942fa0
+INMOBI.COM, 6c090c2ed5634c9aa59f08bd98a5fb88, RESELLER, 83e75a7ae333ca9d
+ironsrc.com, 190011333, RESELLER, 451cfa9f03e04c3f
+unityads.unity3d.com, 4222687, DIRECT
